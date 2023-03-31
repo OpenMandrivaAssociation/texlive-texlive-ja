@@ -1,6 +1,6 @@
 Name:		texlive-texlive-ja
 Version:	62817
-Release:	1
+Release:	2
 Summary:	TeX Live manual (Japanese)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texlive-ja
