@@ -3,7 +3,7 @@ Version:	62817
 Release:	2
 Summary:	TeX Live manual (Japanese)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texlive-ja
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/texlive-ja
 License:	
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texlive-ja.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texlive-ja.doc.r%{version}.tar.xz
